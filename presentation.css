@@ -1,0 +1,47 @@
+#presentation {
+    display: block;
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+#presentation ul {
+    margin-left: 30px;
+
+}
+
+
+
+.gras_rouge {
+    color: #FA0605;
+    font-weight: bold;
+}
+
+.souligne {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.italique {
+
+    font-weight: italic;
+}
+
+.rouge {
+
+    color: #FA0605;
+}
+
+#tendaime1 {
+    display: block;
+    width: 25%;
+    height: auto;
+    margin-left: 150px;
+}
+
+#tendaime2 {
+    display: block;
+    width: 25%;
+    height: auto;
+    margin-left: 700px;
+    margin-top: -200px;
+}

@@ -1,0 +1,19 @@
+.form {
+    display: block;
+    font-size: 20px;
+
+}
+
+.admin {
+    display: block;
+    margin-left: 100px;
+}
+
+.admin li {
+    font-size: 40px;
+}
+
+.lien {
+    color: black;
+    text-decoration: none;
+}
